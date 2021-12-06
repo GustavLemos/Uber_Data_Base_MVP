@@ -1,0 +1,1 @@
+CREATE SCHEMA `uber_database`;
